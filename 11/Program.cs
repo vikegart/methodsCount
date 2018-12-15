@@ -7,6 +7,10 @@ namespace _11
         static void Main(string[] args)
         {
             QuadratureMethodIntegral.Get();
+            Console.WriteLine("cheker func");
+            
+            
+
         }
     }
 }
